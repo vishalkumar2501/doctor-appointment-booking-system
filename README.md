@@ -2,13 +2,17 @@
 
 A full-stack **MERN Doctor Appointment Booking System** designed to provide a complete digital appointment management platform for **Patients, Doctors, and Admins**.
 
-DocBook allows patients to discover doctors, view real-time availability, book appointments, make secure online payments, receive automated appointment reminders, cancel appointments with refund handling, submit feedback after completed consultations, and maintain a complete appointment history.
+---
 
-Doctors can configure their availability, manage appointment slots, block emergency slots, complete appointments, and monitor patient feedback.
+## 🌐 Live Demo & Deployment
 
-Admins can manage doctors, monitor appointments, handle cancellations, manage invitations, and oversee the complete platform.
+| Portal | Description | Live Link |
+| :--- | :--- | :--- |
+| 🧑‍⚕️ **Patient Portal** | Browse doctors, dynamic slot booking & payments | [Live Patient App](https://doctor-appointment-booking-system-beta-ten.vercel.app) |
+| 👨‍💼 **Doctor / Admin Panel** | Manage availability, appointments, doctors & reviews | [Live Admin/Doctor Panel](https://docbook-admin-three.vercel.app) |
+| ⚙️ **Backend API** | REST API with MongoDB, JWT, Cloudinary & Razorpay | [Live Backend API](https://docbook-backend-bm7l.onrender.com) |
 
-The application follows a structured **MVC architecture**, uses **JWT-based authentication**, implements **role-based authorization**, provides **database-level concurrency protection**, and maintains historical appointment and payment records for data integrity.
+> 🔑 **Demo Admin Credentials**: `admin@prescripto.com` / `admin123`
 
 ---
 
