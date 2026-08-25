@@ -1,0 +1,36 @@
+<svg width="520" height="120" viewBox="0 0 520 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon background (same as main logo) -->
+  <rect x="10" y="10" width="90" height="90" rx="18" fill="#5F6FFF"/>
+
+  <!-- Calendar outline -->
+  <rect x="28" y="38" width="54" height="44" rx="6" stroke="white" stroke-width="4" fill="none"/>
+  <line x1="28" y1="46" x2="82" y2="46" stroke="white" stroke-width="4"/>
+
+  <!-- Calendar rings -->
+  <line x1="40" y1="28" x2="40" y2="38" stroke="white" stroke-width="4"/>
+  <line x1="70" y1="28" x2="70" y2="38" stroke="white" stroke-width="4"/>
+
+  <!-- Check mark -->
+  <path d="M40 64 L52 76 L74 52"
+        stroke="white"
+        stroke-width="5"
+        fill="none"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- Text -->
+  <text x="120" y="60"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="44"
+        font-weight="700">
+    <tspan fill="#0F172A">Doc</tspan><tspan fill="#5F6FFF">Book</tspan>
+  </text>
+
+  <!-- Subtitle (kept exactly as requested) -->
+  <text x="120" y="92"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        fill="#6B7280">
+    Dashboard Panel
+  </text>
+</svg>
